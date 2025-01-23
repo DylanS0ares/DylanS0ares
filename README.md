@@ -1,4 +1,4 @@
-## Olá, meu nome é Dylan Soares! Tenho 23 anos e estou utilizando o GitHub como uma ferramenta para aprendizado contínuo. Meu objetivo é organizar e registrar o que já aprendi até agora, enquanto exploro novas oportunidades para expandir meus conhecimentos. Assim, posso acompanhar meu progresso e integrar ainda mais à minha jornada de aprendizado ao longo da vida. 👋😄
+## Olá, meu nome é Dylan Soares! Tenho 23 anos e estou utilizando o GitHub como uma ferramenta para aprendizado contínuo. Meu objetivo é organizar e registrar o que já aprendi até agora, enquanto exploro novas oportunidades para expandir meus conhecimentos. Assim, posso acompanhar meu progresso e integrar ainda mais à minha jornada de aprendizado. 👋😄
 
 # Estou aprendendo:
 
