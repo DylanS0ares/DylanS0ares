@@ -23,4 +23,4 @@
 # Idiomas:
 🇧🇷 🇺🇸
 
-![snake gif](https://github.com/DylanS0ares/DylanS0ares/blob/output/github-contribution-grid-snake.gif)
+
